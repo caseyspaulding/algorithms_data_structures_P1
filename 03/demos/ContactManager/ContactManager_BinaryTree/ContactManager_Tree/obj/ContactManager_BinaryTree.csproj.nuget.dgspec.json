@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\ContactManager\\ContactManager_BinaryTree\\ContactManager_Tree\\ContactManager_BinaryTree.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\ContactManager\\ContactManager_BinaryTree\\ContactManager_Tree\\ContactManager_BinaryTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\ContactManager\\ContactManager_BinaryTree\\ContactManager_Tree\\ContactManager_BinaryTree.csproj",
+        "projectName": "ContactManager_BinaryTree",
+        "projectPath": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\ContactManager\\ContactManager_BinaryTree\\ContactManager_Tree\\ContactManager_BinaryTree.csproj",
+        "packagesPath": "C:\\Users\\Casey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\ContactManager\\ContactManager_BinaryTree\\ContactManager_Tree\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Casey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\DataStructures.csproj": {
+                "projectPath": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\DataStructures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\DataStructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\DataStructures.csproj",
+        "projectName": "DataStructures",
+        "projectPath": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\DataStructures.csproj",
+        "packagesPath": "C:\\Users\\Casey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casey\\Source\\Repos\\caseyspaulding\\algorithms_data_structures_P1\\03\\demos\\DataStructures\\DataStructures\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Casey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
